@@ -1,0 +1,6 @@
+All steps are completed except bonus features.
+
+Game logic is limited to only placing and colission detection.
+Removal of blocks is not implemented (test in assignment 1). Please use 'r' to clear the board.
+
+Run 'make' in the folder and the executable is called 'FruitTetris3D'.
